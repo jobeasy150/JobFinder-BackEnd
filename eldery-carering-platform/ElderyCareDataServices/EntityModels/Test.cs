@@ -12,5 +12,6 @@ namespace ElderyCareDataServices.EntityModels
         public string FirstName { get; set; }
         public string Lastname { get; set; }
         public string Address { get; set; }
+        //Adding comment
     }
 }
